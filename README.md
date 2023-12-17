@@ -1,4 +1,4 @@
-# cv# Online CV - Capstone Project 1
+## Online CV - Capstone Project 1
 
 This Online CV project is part of the Capstone Project 1 from "The Complete 2023 Web Development Bootcamp" by Angela Yu. The goal is to create a web-based resume using only HTML, covering various aspects of your professional background.
 
